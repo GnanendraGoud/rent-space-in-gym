@@ -1,0 +1,309 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gym Website Template</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+  <style>
+    .wow:first-child {
+      visibility: hidden;
+    }
+  </style>
+  
+</head>
+<body>
+ 
+ <!-- Start Header  -->
+ <header>
+ 	 <div class="container">
+ 	 	<div class="logo">
+ 	 		 <a href=""><span>Private </span>Fitness Club</a>
+ 	 	</div>
+ 	 	<a href="javascript:void(0)" class="ham-burger">
+ 	       <span></span>	
+ 	       <span></span>
+ 	 	</a>
+ 	 	<div class="nav">
+ 	 		<ul>
+ 	 			<li><a href="#home">Home</a></li>
+ 	 			<li><a href="#about">About</a></li>
+ 	 			 	 			<li><a href="#schedule">Schedule</a></li>
+ 	 			
+ 	 			<li><a href="#contact">Contact</a></li>
+ 	 		</ul>
+ 	 	</div>
+ 	 </div>
+ </header>
+ <!-- End Header  -->
+
+  <!-- Start Home -->
+  <section class="home wow flash" id="home">
+  	 <div class="container">
+  	 	  <h1 class="wow slideInLeft" data-wow-delay="1s">Where<span> PRIVACY </span>meets performance. </h1>
+  	 	<!-- h1 class="wow slideInRight" data-wow-delay="1s">Strength is built in <span>Silence.</span></h1>
+  	 </div -->
+  	  <!-- go down -->
+  	      <a href="#about" class="go-down">
+  	      	  <i class="fa fa-angle-down" aria-hidden="true"></i>
+  	      </a>
+  	  <!-- go down -->
+
+  </section>
+  <!-- End Home -->
+
+
+ <!-- Start About -->
+  <section class="about" id="about">
+  	  <div class="container">
+  	  	  <div class="content">
+  	  	  	   <div class="box wow bounceInUp">
+  	  	  	   	   <div class="inner">
+  	  	  	   	   	   <div class="img">
+  	  	  	   	   	   	  <img src="images/about1.jpg" alt="about" />
+  	  	  	   	   	   </div>
+                       <div class="text">
+                       	   <h4>what we offer</h4>
+                       	   <p>At FitZone Private Gym Space, we offer fully equipped gym spaces for individual use — no crowds, no waiting, just you and your fitness goals.Your workout, your rules.
+No waiting for machines, no awkward stares, no distractions. Just you and your goals — in a space that feels like home.</p>
+                       </div>
+  	  	  	   	   </div>
+  	  	  	   </div>
+  	  	  	   	<div class="box wow bounceInUp" data-wow-delay="0.2s">
+  	  	  	   	   <div class="inner">
+  	  	  	   	   	   <div class="img">
+  	  	  	   	   	   	  <img src="images/about2.jpg" alt="about" />
+  	  	  	   	   	   </div>
+                       <div class="text">
+                       	   <h4>Fuel Your Fitness with the Right Food</h4>
+                       	   <p>Working out is only half the journey — the other half starts on your plate.
+Our trainers recommend clean, balanced meals rich in protein, fiber, healthy fats, and hydration.
+Whether your goal is fat loss, muscle gain, or endurance — we’ve got meal plans tailored to your fitness journey Load up on fiber-rich veggies Include healthy fats (avocado, nuts).Stay hydrated — 3-4 liters/day. Avoid processed food and late-night heavy meals</p>
+                       </div>
+  	  	  	   	   </div>
+  	  	  	   </div>
+  	  	  	   <div class="box wow bounceInUp" data-wow-delay="0.4s">
+  	  	  	   	   <div class="inner">
+  	  	  	   	   	   <div class="img">
+  	  	  	   	   	   	  <img src="images/about3.jpg" alt="about" />
+  	  	  	   	   	   </div>
+                       <div class="text">
+                       	   <h4>Build Perfect Body</h4>
+                       	   <p>Building the perfect body isn’t just about looks — it’s about strength, discipline, and confidence. At FitZone, we help you sculpt a body that works hard, feels strong, and looks great. Whether you're training to bulk, cut, tone, or transform — our private gym space gives you the tools, privacy, and support you need to achieve your dream physique.Your body can stand almost anything — it’s your mind you have to convince</p>
+                       </div>
+  	  	  	   	   </div>
+  	  	  	   </div>
+  	  	  </div>
+  	  </div>
+  </section>
+ <!-- End About -->
+
+
+
+
+<!-- Start Today -->
+ <section class="start-today">
+ 	<div class="container">
+ 		 <div class="content">
+ 		 	  <div class="box text wow slideInLeft">
+ 		 	  	 <h2>Start Your Training Today</h2>
+ 		 	  	 <p>Why wait for machines or deal with crowds?
+Our private gym spaces are fully equipped, professionally cleaned, and designed for results. Whether you're a beginner, athlete, or personal trainer — you get exclusive access to your own workout zone.
+
+💪 Train on your schedule
+🔒 Enjoy complete privacy
+🧼 Work out in a clean, secure environment
+
+Spaces are limited — reserve yours now and make every rep count!</p>
+ 		 	  	 <a href="" class="btn">Start Now</a>
+ 		 	  </div>
+ 		 	  <div class="box img wow slideInRight">
+ 		 	  	 <img src="images/start1.jpg" alt="start today" />
+ 		 	  </div>
+
+ 		 </div>
+ 	</div>
+ </section>
+<!-- End Start Today -->
+
+<!-- Start Schedule -->
+  <section class="schedule" id="schedule">
+  	 <div class="container">
+  	 	  <div class="content">
+  	 	  	   <div class="box text wow slideInLeft">
+  	 	  	   	   <h2>Classes Schedule</h2>
+  	 	  	   	   <p>
+  	 	  	   	   	At FitZone Private Gym, we offer a variety of classes and private gym slots throughout the week — designed to match every fitness goal and level. Whether you're booking a solo workout session, joining a small group class, or scheduling personal training, our schedule keeps you on track and motivated.
+  	 	  	   	   </p>
+  	 	  	   	   <img src="images/OIP4.jpg" alt="schedule" />
+  	 	  	   </div>
+  	 	  	   <div class="box timing wow slideInRight">
+                   <table class="table">
+                   	 <tbody>
+                   	 	<tr>
+                   	 		<td class="day">Monday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Tuesday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Wednesday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Thursday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Friday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Saturday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 </tbody>
+                   </table>
+  	 	  	   </div>
+  	 	  </div>
+  	 </div>
+  </section>
+<!-- End Schedule -->
+
+<!-- Start Gallery -->
+  <section class="gallery" id="gallery">
+  	 <h2>Workout Gallery</h2>
+  	<div class="content">
+  		 <div class="box wow slideInLeft">
+  		 	 <img src="images/g1.jpg" alt="gallery" />
+  		 </div>
+  		 <div class="box wow slideInRight">
+  		 	 <img src="images/g2.jpg" alt="gallery" />
+  		 </div>
+  		 <div class="box wow slideInLeft">
+  		 	 <img src="images/g3.jpg" alt="gallery" />
+  		 </div>
+  		 <div class="box wow slideInRight">
+  		 	 <img src="images/g4.jpg" alt="gallery" />
+  		 </div>
+  	</div>
+  </section>
+<!-- End Gallery -->
+  	 
+
+ <!-- Start Contact -->
+  <section class="contact" id="contact">
+     <div class="container">
+        <div class="content">
+            <div class="box form wow slideInLeft">
+               <form>
+                  <input type="text" placeholder="Enter Name">
+                  <input type="text" placeholder="Enter Email">
+                  <input type="text" placeholder="Enter Mobile">
+                  <textarea placeholder="Enter Message"></textarea>
+                  <button type="submit">Send Message</button>
+               </form>
+            </div>
+            <div class="box text wow slideInRight">
+                 <h2>Get Connected with Gym</h2>
+                  <p class="title-p">Whether you're just starting your fitness journey or leveling up your gains — we're here to support you. Connect with us for updates, bookings, fitness tips, and exclusive offers..</p>
+                  <div class="info">
+                      <ul>
+                          <li><span class="fa fa-map-marker"></span> </li>
+                          <li><span class="fa fa-phone"></span> 1234567899</li>
+                          <li><span class="fa fa-envelope"></span> info@gym.com</li>
+                      </ul>
+                  </div>
+                  <div class="social">
+                       <a href=""><span class="fa fa-facebook"></span></a>
+                       <a href=""><span class="fa fa-linkedin"></span></a>
+                       <a href=""><span class="fa fa-skype"></span></a>
+                       <a href=""><span class="fa fa-youtube-play"></span></a>
+                  </div>
+
+                  <div class="copy">
+                      
+                  </div>
+            </div>
+        </div>
+     </div>
+  </section>
+ <!-- End Contact -->
+<!-- jquery -->
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+	$(document).ready(function(){
+
+      $(".ham-burger, .nav ul li a").click(function(){
+       
+        $(".nav").toggleClass("open")
+
+        $(".ham-burger").toggleClass("active");
+      })      
+      $(".accordian-container").click(function(){
+      	$(".accordian-container").children(".body").slideUp();
+      	$(".accordian-container").removeClass("active")
+      	$(".accordian-container").children(".head").children("span").removeClass("fa-angle-down").addClass("fa-angle-up")
+      	$(this).children(".body").slideDown();
+      	$(this).addClass("active")
+      	$(this).children(".head").children("span").removeClass("fa-angle-up").addClass("fa-angle-down")
+      })
+
+       $(".nav ul li a, .go-down").click(function(event){
+         if(this.hash !== ""){
+
+              event.preventDefault();
+
+              var hash=this.hash; 
+
+              $('html,body').animate({
+                scrollTop:$(hash).offset().top
+              },800 , function(){
+                 window.location.hash=hash;
+              });
+
+              // add active class in navigation
+              $(".nav ul li a").removeClass("active")
+              $(this).addClass("active")
+         }
+      })
+})
+
+</script>
+<script src="js/wow.min.js"></script>
+<script>
+    wow = new WOW(
+      {
+        animateClass: 'animated',
+        offset:       0,
+      }
+    );
+    wow.init();
+  </script>
+
+
+
+ </body>
+</html>
+
+
+
+
+
+
